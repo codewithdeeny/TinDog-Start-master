@@ -63,3 +63,31 @@ h1 {
   font-family: montserrat;
   padding-top: 1.2rem;
 }
+
+/* Testimonial section */
+#testimonials {
+  background-color: #ef8172;
+  color: white;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+h2 {
+  font-family: montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+.press-image {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
