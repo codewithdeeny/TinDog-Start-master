@@ -15,6 +15,7 @@ h1 {
 #title {
   background-color: #ff4c68;
   color: #fff;
+  width: fit-content;
 }
 /* Navigation bar */
 .navbar {
@@ -48,16 +49,17 @@ h1 {
   font-size: 5rem;
 }
 .awesome:hover {
-  background-color: #ef8172;
+  color: red;
 }
-#features {
-  text-align: center;
+.feature-p {
+  color: #8f8f8f;
+  font-size: 1rem;
+  font-family: montserrat;
+  font-weight: 400;
 }
 .middle-h3 {
   font-size: 1.5rem;
   font-weight: bold;
   font-family: montserrat;
-  margin: 0 8rem;
-  text-align: center;
   padding-top: 1.2rem;
 }
