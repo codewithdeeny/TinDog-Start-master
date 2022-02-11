@@ -106,3 +106,35 @@ h2 {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* How to make your site responsive using the @media tag on css to either mobile or desktop, use the @media tag and write the specifications out like you do on normal css */
+@media (max-width: 1000px) {
+  .tittle-img {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+/* id section */
+#cta {
+  background-color: #ff4c68;
+}
+#last-h3 {
+  font-family: montserrat;
+  font-weight: 900;
+  font-size: 80px;
+  color: #fff;
+  padding: 30px 20px 90px;
+}
+
+#footer {
+  background-color: #fff;
+}
+.home {
+  font-size: xx-large;
+  margin: 20px;
+}
+#footer-p {
+  font-size: large;
+  color: #8f8f8f;
+}
