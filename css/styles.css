@@ -107,7 +107,7 @@ h2 {
   padding: 3% 2%;
 }
 
-/* How to make your site responsive using the @media tag on css to either mobile or desktop, use the @media tag and write the specifications out like you do on normal css */
+/* How to make your site responsive using the @media tag on css to either mobile or desktop, use the @media tag and write the specifications out like you do on normal css. */
 @media (max-width: 1000px) {
   .tittle-img {
     position: static;
